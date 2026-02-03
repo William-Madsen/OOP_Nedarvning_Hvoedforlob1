@@ -1,0 +1,14 @@
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/bin/Debug/net10.0/Geometriske_Figurer.deps.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/bin/Debug/net10.0/Geometriske_Figurer.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/bin/Debug/net10.0/Geometriske_Figurer.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.AssemblyInfoInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.AssemblyInfo.cs
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.csproj.CoreCompileInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/refint/Geometriske_Figurer.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/ref/Geometriske_Figurer.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/bin/Debug/net10.0/Geometriske_Figurer
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/bin/Debug/net10.0/Geometriske_Figurer.runtimeconfig.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Geometriske_Figurer/obj/Debug/net10.0/Geometriske_Figurer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/bin/Debug/net10.0/Betalingsststem.deps.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/bin/Debug/net10.0/Betalingsststem.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/bin/Debug/net10.0/Betalingsststem.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.AssemblyInfoInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.AssemblyInfo.cs
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.csproj.CoreCompileInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/refint/Betalingsststem.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/ref/Betalingsststem.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/bin/Debug/net10.0/Betalingsststem
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/bin/Debug/net10.0/Betalingsststem.runtimeconfig.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Betalingsststem/obj/Debug/net10.0/Betalingsststem.genruntimeconfig.cache

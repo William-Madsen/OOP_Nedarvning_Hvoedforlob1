@@ -1,0 +1,14 @@
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.AssemblyInfoInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.AssemblyInfo.cs
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.csproj.CoreCompileInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/bin/Debug/net10.0/Zoo
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/bin/Debug/net10.0/Zoo.deps.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/bin/Debug/net10.0/Zoo.runtimeconfig.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/bin/Debug/net10.0/Zoo.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/bin/Debug/net10.0/Zoo.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/refint/Zoo.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/Zoo.genruntimeconfig.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/Zoo/obj/Debug/net10.0/ref/Zoo.dll

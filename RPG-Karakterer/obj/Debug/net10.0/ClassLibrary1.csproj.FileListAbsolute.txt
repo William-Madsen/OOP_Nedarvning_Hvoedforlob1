@@ -1,0 +1,14 @@
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/bin/Debug/net10.0/ClassLibrary1
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/bin/Debug/net10.0/ClassLibrary1.deps.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/bin/Debug/net10.0/ClassLibrary1.runtimeconfig.json
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/bin/Debug/net10.0/ClassLibrary1.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/bin/Debug/net10.0/ClassLibrary1.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.AssemblyInfo.cs
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/refint/ClassLibrary1.dll
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.pdb
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ClassLibrary1.genruntimeconfig.cache
+/Users/williamlundmadsen/Hvoedforlob_1/Nedarvning/RPG-Karakterer/obj/Debug/net10.0/ref/ClassLibrary1.dll
